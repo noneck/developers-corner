@@ -9,7 +9,7 @@ This content is pulled from many different locations. Also, some of this content
 # Table of Contents
 We have broken down content into something easily understandable for anyone new to open source, civic hacking, and mobile development. 
 
-* Open Source Foundations
+* [Open Source Foundations](1-open-source-foundations/ReadMe.md)
   - What is Open Source
   - Beginners Guide to Open Source
   - Getting started in Civic Hacking
